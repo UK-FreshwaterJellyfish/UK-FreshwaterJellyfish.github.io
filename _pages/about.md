@@ -34,7 +34,7 @@ latest_posts:
     </swiper-slide>
     
     <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/CG_iNat_FWJ_toUpload.jpg" class="img-fluid z-depth-1 rounded" %}
+      {% include figure.liquid loading="eager" path="assets/img/HS_iNat_FWJ_toUpload.jpg" class="img-fluid z-depth-1 rounded" %}
     </swiper-slide>
 
   </swiper-container>
