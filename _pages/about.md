@@ -30,15 +30,11 @@ latest_posts:
   <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" autoplay="true" autoplay-delay="3000">
     
     <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/pic1.jpg" class="img-fluid z-depth-1 rounded" %}
+      {% include figure.liquid loading="eager" path="assets/img/CG_iNat_FWJ_toUpload.jpg" class="img-fluid z-depth-1 rounded" %}
     </swiper-slide>
     
     <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/pic2.jpg" class="img-fluid z-depth-1 rounded" %}
-    </swiper-slide>
-    
-    <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/pic3.png" class="img-fluid z-depth-1 rounded" %}
+      {% include figure.liquid loading="eager" path="assets/img/CG_iNat_FWJ_toUpload.jpg" class="img-fluid z-depth-1 rounded" %}
     </swiper-slide>
 
   </swiper-container>
