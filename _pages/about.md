@@ -4,10 +4,10 @@ title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+#profile:
+  #align: right
+  #image: prof_pic.jpg
+  #image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>PhD candidate</p>
   #  <p>Marine Conservation Research Group, University of Plymouth, UK</p>
@@ -26,6 +26,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="profile float-right">
+  <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" autoplay="true" autoplay-delay="3000">
+    
+    <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/pic1.jpg" class="img-fluid z-depth-1 rounded" %}
+    </swiper-slide>
+    
+    <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/pic2.jpg" class="img-fluid z-depth-1 rounded" %}
+    </swiper-slide>
+    
+    <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/pic3.png" class="img-fluid z-depth-1 rounded" %}
+    </swiper-slide>
+
+  </swiper-container>
+</div>
 
 **Have You Seen a Freshwater Jellyfish in the UK?**
 
