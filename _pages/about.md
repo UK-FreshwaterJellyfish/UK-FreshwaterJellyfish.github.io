@@ -13,7 +13,7 @@ permalink: /
   #  <p>Marine Conservation Research Group, University of Plymouth, UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -49,4 +49,6 @@ Most people know jellyfish are in the ocean, however jellyfish can also be found
 **How many** freshwater jellyfish did you see? (1, <10, 10-100, 100-500, 500-1000, more than 1000) 
 
 We’d be very grateful if you could also **provide a photograph or a video** of your sighting! If you are comfortable catching freshwater jellyfish, please put a couple in a jar and contact us soon. Catching freshwater jellyfish could be an important way to help us learn more about them.
+
+Please [connect with us here](mailto:john.terenzini@plymouth.ac.uk). Include time/date when you observed freshwater jellyfish, location where you saw them (name of waterbody, location name, or coordinates), and how many freshwater jellyfish you saw. You can also attach photos and videos (or links to videos) to your email. Thank you very much for your observation!
 
