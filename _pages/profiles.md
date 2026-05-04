@@ -15,9 +15,9 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      
-  - align: left
-    image: #ADD MATT IMAGE prof_pic.jpg
-    content: about_MattF.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
+  #- align: left
+  #  image: #ADD MATT IMAGE prof_pic.jpg
+  #  content: about_MattF.md
+  #  image_circular: false # crops the image to make it circular
+  #  more_info: >
 ---
