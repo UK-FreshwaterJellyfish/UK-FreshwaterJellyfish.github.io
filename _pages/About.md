@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Freshwater Jellyfish
-permalink: /
+#permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 
