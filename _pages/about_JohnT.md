@@ -1,1 +1,2 @@
-INSERT DESCRIPTION OF JOHN
+**John Terenzini**
+John comes from a long background in the outdoor industry, teaching environmental education and guiding around the world. He switched careers towards researching important marine species like jellyfish by starting the Hong Kong Jellyfish Project, a citizen science initiative examining the presence, distribution, and seasonality of jellyfish in Hong Kong. He brings his citizen science and jellyfish experience to the UK to discover more about freshwater jellyfish, such as Craspedacusta sowerbii, and lay the foundation for future research into this non-native species. 
