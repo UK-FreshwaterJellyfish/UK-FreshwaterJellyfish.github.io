@@ -1,25 +1,8 @@
 ---
-layout: about
+layout: page
 title: About Freshwater Jellyfish
-#permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+permalink: /jellyfish/
 ---
-**About freshwater jellyfish in the UK**
 
 Freshwater jellyfish belong to the phylum Cnidaria and class Hydrozoa, distinguishing them from “true jellyfish” (class Scyphozoa), which are exclusively marine. Despite their different environments, freshwater and marine jellyfish share many traits and perform similar ecological roles in their respective environments. There are thought to be up to 20 species of freshwater jellyfish globally, however only around 10 species are confirmed. The most well-known and widely distributed freshwater jellyfish is the species _Craspedacusta sowerbii_ (sometimes spelled _“sowerbyi”_), or the peach blossom jellyfish. The common name “peach blossom jellyfish" comes from ancient Chinese records that compare the appearance of _Craspedacusta_ to the timing of the blooming of peach blossoms. The earliest record of _Craspedacusta_ is from 1609 in Chinese records.  
 
