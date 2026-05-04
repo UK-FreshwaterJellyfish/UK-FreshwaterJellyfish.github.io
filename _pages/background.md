@@ -2,6 +2,7 @@
 layout: page
 title: About Freshwater Jellyfish
 permalink: /jellyfish/
+nav: true
 ---
 
 Freshwater jellyfish belong to the phylum Cnidaria and class Hydrozoa, distinguishing them from “true jellyfish” (class Scyphozoa), which are exclusively marine. Despite their different environments, freshwater and marine jellyfish share many traits and perform similar ecological roles in their respective environments. There are thought to be up to 20 species of freshwater jellyfish globally, however only around 10 species are confirmed. The most well-known and widely distributed freshwater jellyfish is the species _Craspedacusta sowerbii_ (sometimes spelled _“sowerbyi”_), or the peach blossom jellyfish. The common name “peach blossom jellyfish" comes from ancient Chinese records that compare the appearance of _Craspedacusta_ to the timing of the blooming of peach blossoms. The earliest record of _Craspedacusta_ is from 1609 in Chinese records.  
