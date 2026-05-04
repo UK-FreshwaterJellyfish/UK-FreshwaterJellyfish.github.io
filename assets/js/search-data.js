@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-team",
+  },{id: "nav-about-freshwater-jellyfish",
+          title: "About Freshwater Jellyfish",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/jellyfish/";
+          },
+        },{id: "nav-team",
           title: "Team",
           description: "",
           section: "Navigation",
