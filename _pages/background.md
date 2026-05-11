@@ -16,3 +16,8 @@ The medusae of this freshwater jellyfish are small, with a bell-shaped body meas
 Ecologically, freshwater jellyfish are predators that feed primarily on small zooplankton. Like their marine cousins, freshwater jellyfish have stinging tentacles to capture their tiny prey. They are opportunistic predators, catching small organisms that come within reach of their tentacles. Although they possess stinging cells like other cnidarians, their sting is too weak to affect human skin significantly. Few freshwater species of fish are thought to eat freshwater jellyfish, though crayfish are known to consume them.  While the impact of freshwater jellyfish on freshwater ecosystems is still debated, they may influence zooplankton populations and food webs, especially during blooms, when their population rapidly increases. However, such blooms are typically temporary and irregular, and this species has yet to be determined to be highly invasive or harmful. 
 
 As climate change alters the distribution of the world’s biodiversity, it is likely that _Craspedacusta_ will continue to expand their range and inhabit an increasing number of freshwater bodies around the world, making it important to research these organisms. The unpredictable and sporadic appearances make _Craspedacusta sowerbii_ difficult to find, necessitating the use of methodologies such as citizen science to expand the geographical and temporal scale of research or technologies such as environmental DNA (eDNA) monitoring to find and identify freshwater jellyfish through their cast-off DNA. 
+
+**Further reading:**
+https://www.nature.com/articles/s41598-021-02525-3
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70350
+https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70344
