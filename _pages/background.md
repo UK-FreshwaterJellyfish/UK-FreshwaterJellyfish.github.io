@@ -18,6 +18,7 @@ Ecologically, freshwater jellyfish are predators that feed primarily on small zo
 As climate change alters the distribution of the world’s biodiversity, it is likely that _Craspedacusta_ will continue to expand their range and inhabit an increasing number of freshwater bodies around the world, making it important to research these organisms. The unpredictable and sporadic appearances make _Craspedacusta sowerbii_ difficult to find, necessitating the use of methodologies such as citizen science to expand the geographical and temporal scale of research or technologies such as environmental DNA (eDNA) monitoring to find and identify freshwater jellyfish through their cast-off DNA. 
 
 **Further reading:**
+
 https://www.nature.com/articles/s41598-021-02525-3
 
 https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70350
