@@ -19,8 +19,8 @@ As climate change alters the distribution of the world’s biodiversity, it is l
 
 **Further reading:**
 
-https://www.nature.com/articles/s41598-021-02525-3
+(https://www.nature.com/articles/s41598-021-02525-3)[https://www.nature.com/articles/s41598-021-02525-3]
 
-https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70350
+(https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70350)[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70350]
 
-https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70344
+(https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70344)[https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70344]
