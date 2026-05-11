@@ -41,7 +41,7 @@ This small jellyfish (~2.5cm) can be found in still water bodies, like ponds, la
 **Where** you saw the freshwater jellyfish (location and/or geographical coordinates).   
 **How many** freshwater jellyfish did you see? (1, <10, 10-100, 100-500, 500-1000, more than 1000) 
 
-We’d be very grateful if you could also **provide a photograph or a video** of your sighting! If you are comfortable catching freshwater jellyfish, please put a couple in a jar and contact us soon. Catching freshwater jellyfish could be an important way to help us learn more about them.
+We’d be very grateful if you could also **provide a photograph or a video** of your sighting! If you are comfortable catching freshwater jellyfish and can do so without putting yourself in any danger, please put a couple in a jar and contact us soon. Catching freshwater jellyfish could be an important way to help us learn more about them.
 
 Since the first taxonomic description of _C. sowerbii_ in London in 1880, research has shown there are at least three distinct genetic lineages of _C. sowerbii_ globally. It is likely that a number of potentially different species have previously been lumped into the category of _C. sowerbii_, so the exact lineage of _C. sowerbii_ is uncertain. This uncertainty makes it important to collect specimens and investigate the genetic lineage(s) present in the United Kingdom, in order to potentially stabilise the nomenclature. This investigation will provide the basis for future research into the global spread of this non-native cryptic species. 
 
